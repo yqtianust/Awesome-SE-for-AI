@@ -4,7 +4,7 @@ Previously the repo is called awesome-ml-testing.
 
 This repo will be updated continuously, don't hesitate to add new Pull Request or Issues if you find anything is missing! Please use the format [here](#format).
 
-**A seperate web page for paper list is [here](https://yqtianust.github.io/awesome-SE-for-AI/papers)**. The webpage has fancy searchbox. Thanks to [@Troublor](https://github.com/Troublor). 
+**A seperate web page for paper list is [here](https://yqtianust.github.io/Awesome-SE-for-AI/papers)**. The webpage has fancy searchbox. Thanks to [@Troublor](https://github.com/Troublor). 
 
 My personal webpage is [here](http://home.cse.ust.hk/~ytianas/) and [here](https://cs.uwaterloo.ca/~y258tian/).
 
